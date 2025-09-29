@@ -24,3 +24,24 @@ Top 5 Most Common Relationships:
   affects: 267 occurrences
   have: 156 occurrences
   is a: 142 occurrences
+  
+============================================================
+FAISS VALIDATION COMPLETE
+============================================================
+Original triples:    12165
+Validated triples:   9281 (76.3%)
+Dropped triples:     2881 (23.7%)
+Time taken:          291.3 minutes
+Avg time per triple: 1.437s
+
+Validated triples saved to: kg_triples_validated.json
+Dropped triples saved to:   kg_triples_dropped.json
+
+Checkpoint file removed
+
+Sample validated triples:
+1. covid-19 --is caused by--> sars-cov-2
+2. covid-19 --has caused--> significant morbidity
+3. covid-19 --has caused--> mortality
+4. sars-cov-2 --continues to evolve with--> global health implications
+5. sars-cov-2 virus --has biological effects on--> post-acute disease
