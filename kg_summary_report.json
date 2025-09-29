@@ -1,0 +1,43 @@
+{
+  "total_triples": 12165,
+  "unique_subjects": 5232,
+  "unique_predicates": 3281,
+  "unique_objects": 8593,
+  "unique_papers": 44,
+  "top_subjects": {
+    "microgravity": 524,
+    "space flight": 198,
+    "spaceflight": 135,
+    "tno1": 91,
+    "simulated microgravity": 89,
+    "space radiation": 81,
+    "sars-cov-2 infection": 71,
+    "mscl": 62,
+    "antagomirs": 55,
+    "actin": 53
+  },
+  "top_predicates": {
+    "causes": 828,
+    "affects": 267,
+    "have": 156,
+    "is a": 142,
+    "decreases": 141,
+    "increases": 137,
+    "has": 133,
+    "is": 120,
+    "include": 112,
+    "is associated with": 112
+  },
+  "top_objects": {
+    "microgravity": 128,
+    "spaceflight": 98,
+    "flight samples": 46,
+    "root growth": 44,
+    "space flight": 26,
+    "iss": 24,
+    "apoptosis": 20,
+    "leo radiation": 19,
+    "1g": 19,
+    "cardiovascular system": 18
+  }
+}
